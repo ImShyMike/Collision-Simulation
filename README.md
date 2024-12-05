@@ -1,3 +1,5 @@
+![Example Image](/assets/example.png)
+
 # Collision Simulation
  Collision simulation using python and pygame that is able to handle a decent amount of balls at a decent framerate
 
